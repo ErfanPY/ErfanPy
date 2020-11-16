@@ -2,12 +2,12 @@
 
 ## I'm Erfan Ghofrani
 
-###- 🔭 I’m currently working on :
+### - 🔭 I’m currently working on :
 * https://github.com/ErfanPY/sciencedirect-authors-data
 
-###- 🌱 I’m currently learning : JavaScript
+### - 🌱 I’m currently learning : JavaScript
 
-###- 📫 How to reach me :
+### - 📫 How to reach me :
 
 * Parsyab1@gmail.com
 * Twitter : @ErfanPy
