@@ -5,7 +5,8 @@
 ### - 🔭 I’m currently working on :
 * [A web scraper webapp](https://github.com/ErfanPY/sciencedirect-authors-data)
 
-### - 🌱 I’m currently learning : JavaScript
+### - 🌱 I’m currently learning : 
+* JavaScript
 
 ### - 📫 How to reach me :
 
