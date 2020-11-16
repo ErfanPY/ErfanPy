@@ -10,7 +10,7 @@
 ### - 📫 How to reach me :
 
 * Parsyab1@gmail.com
-* Twitter : @ErfanPy
+* Twitter : [@ErfanPy](https://twitter.com/ErfanPy)
 
 <!--
 **ErfanPY/ErfanPy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
