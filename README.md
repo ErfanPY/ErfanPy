@@ -5,9 +5,6 @@
 ### - 🔭 I’m currently working on :
 * [A web scraper webapp](https://github.com/ErfanPY/sciencedirect-authors-data)
 
-### - 🌱 I’m currently learning : 
-* [JavaScript](https://www.udemy.com/course/the-complete-javascript-course/)
-
 ### - 📫 How to reach me :
 
 * Parsyab1@gmail.com
