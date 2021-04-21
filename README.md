@@ -3,7 +3,7 @@
 **I'm Erfan Ghofrani**
 
 ### - 🔭 I’m currently working on :
-* [A web scraper webapp](https://github.com/ErfanPY/sciencedirect-authors-data)
+* [A web scraper](https://github.com/ErfanPY/sciencedirect-authors-data)
 
 ### - 📫 How to reach me :
 
